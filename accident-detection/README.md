@@ -5,8 +5,8 @@ A workspace for validating accident-image data, training image classifiers, and 
 ## Project layout
 
 - `datasets/accident_images/accident/` and `datasets/accident_images/non_accident/`: place labeled images in these folders.
-- `datasets/hospitals/india_hospitals_master_cleaned.csv`: hospital reference data (add the source file here).
-- `datasets/police/india_police_stations_master_cleaned.csv`: police-station reference data (add the source file here).
+- `datasets/hospitals/india_hospitals_master_cleaned.csv`: expected hospital reference-data path. An existing dataset is present as `hospital_directory_cleaned.csv` in the same folder.
+- `datasets/police/india_police_stations_master_cleaned.csv`: police-station reference data already present at the expected path.
 - `notebooks/`: sequential data-validation, model-training, and comparison notebooks.
 - `models/`: saved model artifacts.
 - `results/metrics.csv`, `results/confusion_matrices/`, and `results/plots/`: evaluation outputs.
@@ -20,4 +20,4 @@ A workspace for validating accident-image data, training image classifiers, and 
 4. `04_ml_models.ipynb` is the classical machine-learning experiment workspace.
 5. `05_model_comparison.ipynb` reads recorded metrics for comparison.
 
-The model notebooks are starting points; training settings and preprocessing should be chosen to match the actual dataset. No data or trained models are included in this scaffold.
+The model notebooks are starting points; training settings and preprocessing should be chosen to match the actual dataset. Existing CSV datasets were left unchanged, and no trained models are included in this scaffold.
