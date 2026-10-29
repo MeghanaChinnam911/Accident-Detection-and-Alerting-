@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1_score,roc_auc,test_images,training_seconds,test_prediction_seconds,seconds_per_image
+ResNet50,0.8333333333333334,0.717948717948718,0.9032258064516129,0.8,0.9464394400486914,84,577.7182865142822,9.46356463432312,0.1126614837419419
