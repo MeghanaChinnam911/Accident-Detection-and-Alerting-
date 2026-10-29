@@ -1,0 +1,35 @@
+{
+  "experiment": "MobileNetV2_RandomForest",
+  "positive_class": "Accident (label 0)",
+  "class_mapping": {
+    "Accident": 0,
+    "Non Accident": 1
+  },
+  "report": {
+    "Accident": {
+      "precision": 0.9655172413793104,
+      "recall": 0.9032258064516129,
+      "f1-score": 0.9333333333333333,
+      "support": 31.0
+    },
+    "Non Accident": {
+      "precision": 0.9454545454545454,
+      "recall": 0.9811320754716981,
+      "f1-score": 0.9629629629629629,
+      "support": 53.0
+    },
+    "accuracy": 0.9523809523809523,
+    "macro avg": {
+      "precision": 0.9554858934169279,
+      "recall": 0.9421789409616554,
+      "f1-score": 0.9481481481481482,
+      "support": 84.0
+    },
+    "weighted avg": {
+      "precision": 0.9528586356172563,
+      "recall": 0.9523809523809523,
+      "f1-score": 0.9520282186948853,
+      "support": 84.0
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "experiment": "ResNet50_RandomForest",
+  "positive_class": "Accident (label 0)",
+  "class_mapping": {
+    "Accident": 0,
+    "Non Accident": 1
+  },
+  "report": {
+    "Accident": {
+      "precision": 0.967741935483871,
+      "recall": 0.967741935483871,
+      "f1-score": 0.967741935483871,
+      "support": 31.0
+    },
+    "Non Accident": {
+      "precision": 0.9811320754716981,
+      "recall": 0.9811320754716981,
+      "f1-score": 0.9811320754716981,
+      "support": 53.0
+    },
+    "accuracy": 0.9761904761904762,
+    "macro avg": {
+      "precision": 0.9744370054777846,
+      "recall": 0.9744370054777846,
+      "f1-score": 0.9744370054777846,
+      "support": 84.0
+    },
+    "weighted avg": {
+      "precision": 0.9761904761904762,
+      "recall": 0.9761904761904762,
+      "f1-score": 0.9761904761904762,
+      "support": 84.0
+    }
+  }
+}

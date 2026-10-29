@@ -1,0 +1,85 @@
+file,true_label,true_label_id,predicted_label,predicted_label_id,accident_score,score_type
+datasets/data/test/Accident/test21_10.jpg,Accident,0,Accident,0,0.999966115101404,probability
+datasets/data/test/Accident/test21_14.jpg,Accident,0,Accident,0,0.9999305738255125,probability
+datasets/data/test/Accident/test21_18.jpg,Accident,0,Accident,0,0.9999466518921661,probability
+datasets/data/test/Accident/test21_20.jpg,Accident,0,Accident,0,0.9991396402282139,probability
+datasets/data/test/Accident/test22_23.jpg,Accident,0,Accident,0,0.998770902163234,probability
+datasets/data/test/Accident/test23_19.jpg,Accident,0,Accident,0,0.9996242708555303,probability
+datasets/data/test/Accident/test24_30.jpg,Accident,0,Accident,0,0.9995569696418473,probability
+datasets/data/test/Accident/test25_24.jpg,Accident,0,Accident,0,0.9968920069496852,probability
+datasets/data/test/Accident/test26_23.jpg,Accident,0,Accident,0,0.9993246388228592,probability
+datasets/data/test/Accident/test26_30.jpg,Accident,0,Accident,0,0.9988862415705814,probability
+datasets/data/test/Accident/test27_13.jpg,Accident,0,Accident,0,0.9991395163325787,probability
+datasets/data/test/Accident/test27_25.jpg,Accident,0,Accident,0,0.9999997715847377,probability
+datasets/data/test/Accident/test27_34.jpg,Accident,0,Accident,0,0.975618268405327,probability
+datasets/data/test/Accident/test28_20.jpg,Accident,0,Accident,0,0.9913370596065681,probability
+datasets/data/test/Accident/test28_23.jpg,Accident,0,Accident,0,0.9963249550796384,probability
+datasets/data/test/Accident/test28_26.jpg,Accident,0,Accident,0,0.9921438099476827,probability
+datasets/data/test/Accident/test2_1.jpg,Accident,0,Accident,0,0.7677031292471816,probability
+datasets/data/test/Accident/test2_10.jpg,Accident,0,Accident,0,0.9999603527028885,probability
+datasets/data/test/Accident/test2_16.jpg,Accident,0,Accident,0,0.9999426546496614,probability
+datasets/data/test/Accident/test2_4.jpg,Accident,0,Accident,0,0.9999995484888007,probability
+datasets/data/test/Accident/test2_7.jpg,Accident,0,Accident,0,0.99998647972918,probability
+datasets/data/test/Accident/test30_8.jpg,Accident,0,Accident,0,0.8832008386523305,probability
+datasets/data/test/Accident/test3_32.jpg,Accident,0,Accident,0,0.9063297650955187,probability
+datasets/data/test/Accident/test4_37.jpg,Accident,0,Accident,0,0.8923684158561798,probability
+datasets/data/test/Accident/test4_40.jpg,Accident,0,Accident,0,0.9429168630367776,probability
+datasets/data/test/Accident/test4_42.jpg,Accident,0,Accident,0,0.9293432876700575,probability
+datasets/data/test/Accident/test4_43.jpg,Accident,0,Accident,0,0.9429210748735829,probability
+datasets/data/test/Accident/test5_12.jpg,Accident,0,Accident,0,0.999982762376073,probability
+datasets/data/test/Accident/test5_14.jpg,Accident,0,Accident,0,0.9999588857184988,probability
+datasets/data/test/Accident/test7_25.jpg,Accident,0,Non Accident,1,0.028567494056442766,probability
+datasets/data/test/Accident/test_33.jpg,Accident,0,Accident,0,0.9885930822921403,probability
+datasets/data/test/Non Accident/5_23.jpg,Non Accident,1,Non Accident,1,7.390699545672952e-05,probability
+datasets/data/test/Non Accident/test10_5.jpg,Non Accident,1,Non Accident,1,0.0068719418345716266,probability
+datasets/data/test/Non Accident/test11_12.jpg,Non Accident,1,Non Accident,1,0.016727898279132458,probability
+datasets/data/test/Non Accident/test11_14.jpg,Non Accident,1,Non Accident,1,0.027895247624846187,probability
+datasets/data/test/Non Accident/test11_6.jpg,Non Accident,1,Non Accident,1,0.0003547592939098232,probability
+datasets/data/test/Non Accident/test12_1.jpg,Non Accident,1,Non Accident,1,0.00029980290135911414,probability
+datasets/data/test/Non Accident/test14_2.jpg,Non Accident,1,Non Accident,1,0.03806051085000606,probability
+datasets/data/test/Non Accident/test15_20.jpg,Non Accident,1,Non Accident,1,3.147050953944408e-06,probability
+datasets/data/test/Non Accident/test15_29.jpg,Non Accident,1,Non Accident,1,0.00022987009351704835,probability
+datasets/data/test/Non Accident/test16_4.jpg,Non Accident,1,Non Accident,1,0.0026608736591556825,probability
+datasets/data/test/Non Accident/test17_12.jpg,Non Accident,1,Non Accident,1,0.00020195013298085485,probability
+datasets/data/test/Non Accident/test18_15.jpg,Non Accident,1,Non Accident,1,0.05071817494255315,probability
+datasets/data/test/Non Accident/test18_5.jpg,Non Accident,1,Non Accident,1,0.24045043048851444,probability
+datasets/data/test/Non Accident/test19_15.jpg,Non Accident,1,Non Accident,1,0.02149046932732024,probability
+datasets/data/test/Non Accident/test1_8.jpg,Non Accident,1,Non Accident,1,0.00567559162299458,probability
+datasets/data/test/Non Accident/test1_9.jpg,Non Accident,1,Non Accident,1,0.008004259521470547,probability
+datasets/data/test/Non Accident/test22_3.jpg,Non Accident,1,Non Accident,1,0.012142146257519748,probability
+datasets/data/test/Non Accident/test22_4.jpg,Non Accident,1,Non Accident,1,0.004539796284305675,probability
+datasets/data/test/Non Accident/test25_1.jpg,Non Accident,1,Non Accident,1,0.011769828219747591,probability
+datasets/data/test/Non Accident/test25_21.jpg,Non Accident,1,Non Accident,1,0.18197822415815945,probability
+datasets/data/test/Non Accident/test26_5.jpg,Non Accident,1,Non Accident,1,0.05655546442511805,probability
+datasets/data/test/Non Accident/test27_5.jpg,Non Accident,1,Non Accident,1,0.0003575760449272547,probability
+datasets/data/test/Non Accident/test28_1.jpg,Non Accident,1,Non Accident,1,0.16595583894655974,probability
+datasets/data/test/Non Accident/test28_10.jpg,Non Accident,1,Non Accident,1,0.007533840429957972,probability
+datasets/data/test/Non Accident/test28_3.jpg,Non Accident,1,Non Accident,1,0.011415802156384047,probability
+datasets/data/test/Non Accident/test28_4.jpg,Non Accident,1,Non Accident,1,0.017013723043155515,probability
+datasets/data/test/Non Accident/test28_5.jpg,Non Accident,1,Non Accident,1,0.0032785752314737904,probability
+datasets/data/test/Non Accident/test28_6.jpg,Non Accident,1,Non Accident,1,0.0016697490354332656,probability
+datasets/data/test/Non Accident/test29_19.jpg,Non Accident,1,Non Accident,1,0.00015109850614813958,probability
+datasets/data/test/Non Accident/test29_3.jpg,Non Accident,1,Non Accident,1,0.03627109079430724,probability
+datasets/data/test/Non Accident/test29_6.jpg,Non Accident,1,Non Accident,1,0.497008515203616,probability
+datasets/data/test/Non Accident/test29_7.jpg,Non Accident,1,Accident,0,0.9095441984182342,probability
+datasets/data/test/Non Accident/test3_12.jpg,Non Accident,1,Non Accident,1,0.00011586612237401983,probability
+datasets/data/test/Non Accident/test3_18.jpg,Non Accident,1,Non Accident,1,0.0017450884805443323,probability
+datasets/data/test/Non Accident/test3_21.jpg,Non Accident,1,Non Accident,1,0.0025227443201373267,probability
+datasets/data/test/Non Accident/test3_40.jpg,Non Accident,1,Non Accident,1,0.0019192951292923421,probability
+datasets/data/test/Non Accident/test4_10.jpg,Non Accident,1,Accident,0,0.8851849531691598,probability
+datasets/data/test/Non Accident/test4_11.jpg,Non Accident,1,Non Accident,1,0.3644505793443936,probability
+datasets/data/test/Non Accident/test4_28.jpg,Non Accident,1,Non Accident,1,0.0016808867439793707,probability
+datasets/data/test/Non Accident/test4_4.jpg,Non Accident,1,Accident,0,0.6434626914829975,probability
+datasets/data/test/Non Accident/test4_53.jpg,Non Accident,1,Non Accident,1,0.0064430202629468525,probability
+datasets/data/test/Non Accident/test4_6.jpg,Non Accident,1,Non Accident,1,0.13363168930236158,probability
+datasets/data/test/Non Accident/test4_60.jpg,Non Accident,1,Non Accident,1,0.0037392878667051876,probability
+datasets/data/test/Non Accident/test4_9.jpg,Non Accident,1,Non Accident,1,0.00039594154352051714,probability
+datasets/data/test/Non Accident/test7_10.jpg,Non Accident,1,Non Accident,1,0.0008788329296520736,probability
+datasets/data/test/Non Accident/test7_22.jpg,Non Accident,1,Non Accident,1,0.26204027814459585,probability
+datasets/data/test/Non Accident/test7_38.jpg,Non Accident,1,Non Accident,1,0.012299996355214726,probability
+datasets/data/test/Non Accident/test7_39.jpg,Non Accident,1,Non Accident,1,0.0023679313383938583,probability
+datasets/data/test/Non Accident/test8_11.jpg,Non Accident,1,Non Accident,1,0.017321929682984405,probability
+datasets/data/test/Non Accident/test8_22.jpg,Non Accident,1,Non Accident,1,0.0030087684590731634,probability
+datasets/data/test/Non Accident/test8_3.jpg,Non Accident,1,Non Accident,1,0.001203153187846584,probability
+datasets/data/test/Non Accident/test9_20.jpg,Non Accident,1,Non Accident,1,0.0024095429826227477,probability
+datasets/data/test/Non Accident/test_2.jpg,Non Accident,1,Non Accident,1,1.7216415071352742e-08,probability

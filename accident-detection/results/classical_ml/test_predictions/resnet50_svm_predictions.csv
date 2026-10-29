@@ -1,0 +1,85 @@
+file,true_label,true_label_id,predicted_label,predicted_label_id,accident_score,score_type
+datasets/data/test/Accident/test21_10.jpg,Accident,0,Accident,0,0.9819472298544341,decision_score
+datasets/data/test/Accident/test21_14.jpg,Accident,0,Accident,0,0.99653487515807,decision_score
+datasets/data/test/Accident/test21_18.jpg,Accident,0,Accident,0,1.0051608185645782,decision_score
+datasets/data/test/Accident/test21_20.jpg,Accident,0,Accident,0,1.0192540625941746,decision_score
+datasets/data/test/Accident/test22_23.jpg,Accident,0,Accident,0,1.0442513900317434,decision_score
+datasets/data/test/Accident/test23_19.jpg,Accident,0,Accident,0,1.1745266618920658,decision_score
+datasets/data/test/Accident/test24_30.jpg,Accident,0,Accident,0,0.8829402969004565,decision_score
+datasets/data/test/Accident/test25_24.jpg,Accident,0,Non Accident,1,-0.09809991420939618,decision_score
+datasets/data/test/Accident/test26_23.jpg,Accident,0,Accident,0,1.00850891748669,decision_score
+datasets/data/test/Accident/test26_30.jpg,Accident,0,Accident,0,0.9113787092804018,decision_score
+datasets/data/test/Accident/test27_13.jpg,Accident,0,Accident,0,1.0767753641011384,decision_score
+datasets/data/test/Accident/test27_25.jpg,Accident,0,Accident,0,0.8831118230123591,decision_score
+datasets/data/test/Accident/test27_34.jpg,Accident,0,Accident,0,0.8414924166830324,decision_score
+datasets/data/test/Accident/test28_20.jpg,Accident,0,Accident,0,0.6090758787619435,decision_score
+datasets/data/test/Accident/test28_23.jpg,Accident,0,Accident,0,0.973525175307127,decision_score
+datasets/data/test/Accident/test28_26.jpg,Accident,0,Accident,0,1.0779412526582273,decision_score
+datasets/data/test/Accident/test2_1.jpg,Accident,0,Accident,0,0.19022987534016952,decision_score
+datasets/data/test/Accident/test2_10.jpg,Accident,0,Accident,0,0.9002837335132312,decision_score
+datasets/data/test/Accident/test2_16.jpg,Accident,0,Accident,0,0.9432652000245976,decision_score
+datasets/data/test/Accident/test2_4.jpg,Accident,0,Accident,0,0.46269065239773105,decision_score
+datasets/data/test/Accident/test2_7.jpg,Accident,0,Accident,0,1.0337118263773546,decision_score
+datasets/data/test/Accident/test30_8.jpg,Accident,0,Accident,0,0.004188793709015801,decision_score
+datasets/data/test/Accident/test3_32.jpg,Accident,0,Non Accident,1,-0.38681801255732934,decision_score
+datasets/data/test/Accident/test4_37.jpg,Accident,0,Accident,0,0.27511075448887123,decision_score
+datasets/data/test/Accident/test4_40.jpg,Accident,0,Accident,0,0.5426955033064612,decision_score
+datasets/data/test/Accident/test4_42.jpg,Accident,0,Non Accident,1,-0.0014888494692116977,decision_score
+datasets/data/test/Accident/test4_43.jpg,Accident,0,Non Accident,1,-0.02850232984223236,decision_score
+datasets/data/test/Accident/test5_12.jpg,Accident,0,Accident,0,1.0007409324758794,decision_score
+datasets/data/test/Accident/test5_14.jpg,Accident,0,Accident,0,1.0229728343294817,decision_score
+datasets/data/test/Accident/test7_25.jpg,Accident,0,Non Accident,1,-0.9643551938969148,decision_score
+datasets/data/test/Accident/test_33.jpg,Accident,0,Accident,0,0.9014501493100808,decision_score
+datasets/data/test/Non Accident/5_23.jpg,Non Accident,1,Non Accident,1,-0.8516138102906392,decision_score
+datasets/data/test/Non Accident/test10_5.jpg,Non Accident,1,Non Accident,1,-0.7343689490370753,decision_score
+datasets/data/test/Non Accident/test11_12.jpg,Non Accident,1,Non Accident,1,-0.9455453844266846,decision_score
+datasets/data/test/Non Accident/test11_14.jpg,Non Accident,1,Non Accident,1,-0.8742224471179432,decision_score
+datasets/data/test/Non Accident/test11_6.jpg,Non Accident,1,Non Accident,1,-1.0229622869776327,decision_score
+datasets/data/test/Non Accident/test12_1.jpg,Non Accident,1,Non Accident,1,-0.9733918719810872,decision_score
+datasets/data/test/Non Accident/test14_2.jpg,Non Accident,1,Accident,0,0.6221549969489963,decision_score
+datasets/data/test/Non Accident/test15_20.jpg,Non Accident,1,Non Accident,1,-0.8145303140142504,decision_score
+datasets/data/test/Non Accident/test15_29.jpg,Non Accident,1,Non Accident,1,-0.9364407268760417,decision_score
+datasets/data/test/Non Accident/test16_4.jpg,Non Accident,1,Non Accident,1,-0.6295866583558651,decision_score
+datasets/data/test/Non Accident/test17_12.jpg,Non Accident,1,Non Accident,1,-1.0823889008872174,decision_score
+datasets/data/test/Non Accident/test18_15.jpg,Non Accident,1,Non Accident,1,-0.9585391875577218,decision_score
+datasets/data/test/Non Accident/test18_5.jpg,Non Accident,1,Non Accident,1,-0.9022312053158072,decision_score
+datasets/data/test/Non Accident/test19_15.jpg,Non Accident,1,Non Accident,1,-0.5720669639459997,decision_score
+datasets/data/test/Non Accident/test1_8.jpg,Non Accident,1,Non Accident,1,-0.9288216835110357,decision_score
+datasets/data/test/Non Accident/test1_9.jpg,Non Accident,1,Non Accident,1,-0.9296781914995937,decision_score
+datasets/data/test/Non Accident/test22_3.jpg,Non Accident,1,Non Accident,1,-1.0671854471084263,decision_score
+datasets/data/test/Non Accident/test22_4.jpg,Non Accident,1,Non Accident,1,-1.1187726375953784,decision_score
+datasets/data/test/Non Accident/test25_1.jpg,Non Accident,1,Non Accident,1,-0.899261586834982,decision_score
+datasets/data/test/Non Accident/test25_21.jpg,Non Accident,1,Non Accident,1,-0.44707189709186707,decision_score
+datasets/data/test/Non Accident/test26_5.jpg,Non Accident,1,Non Accident,1,-0.9771284616503779,decision_score
+datasets/data/test/Non Accident/test27_5.jpg,Non Accident,1,Non Accident,1,-1.0048429760000628,decision_score
+datasets/data/test/Non Accident/test28_1.jpg,Non Accident,1,Non Accident,1,-0.4612741831932559,decision_score
+datasets/data/test/Non Accident/test28_10.jpg,Non Accident,1,Non Accident,1,-0.908313565404534,decision_score
+datasets/data/test/Non Accident/test28_3.jpg,Non Accident,1,Non Accident,1,-0.5602706680650544,decision_score
+datasets/data/test/Non Accident/test28_4.jpg,Non Accident,1,Non Accident,1,-0.5206488537271905,decision_score
+datasets/data/test/Non Accident/test28_5.jpg,Non Accident,1,Non Accident,1,-0.5294974036047901,decision_score
+datasets/data/test/Non Accident/test28_6.jpg,Non Accident,1,Non Accident,1,-0.8026116053452892,decision_score
+datasets/data/test/Non Accident/test29_19.jpg,Non Accident,1,Non Accident,1,-0.5455377739403697,decision_score
+datasets/data/test/Non Accident/test29_3.jpg,Non Accident,1,Non Accident,1,-0.5503051482431216,decision_score
+datasets/data/test/Non Accident/test29_6.jpg,Non Accident,1,Non Accident,1,-0.43114866872533436,decision_score
+datasets/data/test/Non Accident/test29_7.jpg,Non Accident,1,Accident,0,0.061797035847739414,decision_score
+datasets/data/test/Non Accident/test3_12.jpg,Non Accident,1,Non Accident,1,-1.1477698112967816,decision_score
+datasets/data/test/Non Accident/test3_18.jpg,Non Accident,1,Non Accident,1,-1.0409813817185603,decision_score
+datasets/data/test/Non Accident/test3_21.jpg,Non Accident,1,Non Accident,1,-0.9164771456151339,decision_score
+datasets/data/test/Non Accident/test3_40.jpg,Non Accident,1,Non Accident,1,-1.0911399636009493,decision_score
+datasets/data/test/Non Accident/test4_10.jpg,Non Accident,1,Non Accident,1,-1.0821564471757634,decision_score
+datasets/data/test/Non Accident/test4_11.jpg,Non Accident,1,Non Accident,1,-1.1136137589489756,decision_score
+datasets/data/test/Non Accident/test4_28.jpg,Non Accident,1,Non Accident,1,-0.9751145601443956,decision_score
+datasets/data/test/Non Accident/test4_4.jpg,Non Accident,1,Non Accident,1,-0.556072152178104,decision_score
+datasets/data/test/Non Accident/test4_53.jpg,Non Accident,1,Non Accident,1,-0.5778565488820768,decision_score
+datasets/data/test/Non Accident/test4_6.jpg,Non Accident,1,Non Accident,1,-0.816109711919794,decision_score
+datasets/data/test/Non Accident/test4_60.jpg,Non Accident,1,Non Accident,1,-0.8964429140331192,decision_score
+datasets/data/test/Non Accident/test4_9.jpg,Non Accident,1,Non Accident,1,-0.6977791056280713,decision_score
+datasets/data/test/Non Accident/test7_10.jpg,Non Accident,1,Non Accident,1,-1.0072430888344808,decision_score
+datasets/data/test/Non Accident/test7_22.jpg,Non Accident,1,Non Accident,1,-1.1810847701344434,decision_score
+datasets/data/test/Non Accident/test7_38.jpg,Non Accident,1,Non Accident,1,-1.018150100595326,decision_score
+datasets/data/test/Non Accident/test7_39.jpg,Non Accident,1,Non Accident,1,-1.06833719725417,decision_score
+datasets/data/test/Non Accident/test8_11.jpg,Non Accident,1,Non Accident,1,-0.9998373893148294,decision_score
+datasets/data/test/Non Accident/test8_22.jpg,Non Accident,1,Non Accident,1,-1.2424336414685413,decision_score
+datasets/data/test/Non Accident/test8_3.jpg,Non Accident,1,Non Accident,1,-0.999832451830333,decision_score
+datasets/data/test/Non Accident/test9_20.jpg,Non Accident,1,Non Accident,1,-1.035758438696124,decision_score
+datasets/data/test/Non Accident/test_2.jpg,Non Accident,1,Accident,0,0.09104085526591897,decision_score
